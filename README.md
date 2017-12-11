@@ -1,4 +1,4 @@
-# tensorflow-DTN
+# tensorflow-DDT
 Most prior domain adaptation methods only focus on reducing the difference in
 the marginal distribution between domains. An emerging question, however, is
 that the MMD value is quite small, but the two distributions are indistinguishable
