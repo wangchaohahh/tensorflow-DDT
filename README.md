@@ -13,5 +13,4 @@ collapses to outputting the indistinguishable situation of different categories.
 ![result](https://raw.githubusercontent.com/wangchao66/tensorflow-DTN/master/tsne.PNG)
 
 Figure.2 shows that the target categories are discriminated better by the
-target classifier (larger class-to-class distances), which suggests that our method of
-classifiers is a reasonable extension to previous deep feature adaptation methods.
+target classifier (larger class-to-class distances), which suggests that our method is a reasonable extension to previous deep feature adaptation methods.
