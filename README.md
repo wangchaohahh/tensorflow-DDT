@@ -9,4 +9,9 @@ common failure of domain adaptation models, where the whole domain data
 collapses to outputting the indistinguishable situation of different categories.
 
 # experiment result
+![result](https://raw.githubusercontent.com/wangchao66/tensorflow-DTN/master/result.PNG)
+![result](https://raw.githubusercontent.com/wangchao66/tensorflow-DTN/master/tsne.PNG)
 
+Figure.2 shows that the target categories are discriminated better by the
+target classifier (larger class-to-class distances), which suggests that our method of
+classifiers is a reasonable extension to previous deep feature adaptation methods.
